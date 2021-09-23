@@ -4,12 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-echo "# amar-1337.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Amar-1337/amar-1337.github.io.git
-git push -u origin main
+_yay_
 
 [back](./)
