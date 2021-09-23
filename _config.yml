@@ -2,4 +2,5 @@ theme: jekyll-theme-hacker
 title: [lmfao]
 description: [A short description of your site's purpose]
 github:
-	another_url: google.com
+  zip_url: http://example.com/download.zip
+  another_url: google.com
