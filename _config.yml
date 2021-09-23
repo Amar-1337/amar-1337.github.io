@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
+plugins:
+- jekyll-remote-theme
 title: [lmfao]
 description: [A short description of your site's purpose]
 github:
