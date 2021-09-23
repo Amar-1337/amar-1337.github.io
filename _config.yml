@@ -1,8 +1,5 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
-plugins:
-- jekyll-remote-theme
-title: [lmfao]
-description: [A short description of your site's purpose]
-github:
-  zip_url: http://example.com/download.zip
-  another_url: google.com
