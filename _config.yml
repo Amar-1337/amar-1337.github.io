@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: [lmfao]
 description: [A short description of your site's purpose]
 github:
-	another_url:google.com
+	another_url: google.com
