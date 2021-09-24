@@ -10,13 +10,12 @@ layout: default
 
 
 <center>
-    <img src="https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg">
+    <img src="https://pbs.twimg.com/media/CgokYK9UoAQppEr.jpg">
 </center>
 
 
+<big><center>KALE HAKERČINA</big></center>
 
 
 
-
-* [<big>HackTheBox</big>](./hack-the-box.html).
-
+* [<center><big>HackTheBox</big></center>](./hack-the-box.html).
