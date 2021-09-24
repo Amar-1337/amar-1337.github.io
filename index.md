@@ -11,7 +11,7 @@ layout: default
 
 
 
-![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2Fopencoffeegr%2Fhack-the-box-at-open-coffee-athens-civ&psig=AOvVaw04EeRwigXkzPDn2ssO37bM&ust=1632537757952000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCMjoxKXLlvMCFQAAAAAdAAAAABAK)
+![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Favatars.alphacoders.com%2Favatars%2Fview%2F90459&psig=AOvVaw1tKBWNXTlD7ST1GuoaKLmm&ust=1632538017686000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCICBpJ_MlvMCFQAAAAAdAAAAABAp)
 
 
 
@@ -19,3 +19,4 @@ layout: default
 
 
 * [Writer-HackTheBox](./writer-htb.html).
+
