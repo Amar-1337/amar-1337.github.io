@@ -15,10 +15,9 @@ layout: default
 
 - Useful Tools
   - <big><a href="https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS/">Linpeas!</a></big>
-    <p1>LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts. The checks are explained on <big><a href="book.hacktricks.xyz/">Linpeas!</a></big> </p1>
+    <p1>LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts. The checks are explained on <big><a href="https://book.hacktricks.xyz/">Linpeas!</a></big> </p1>
   - level 2 item
   - level 2 item
-
 
 
 
