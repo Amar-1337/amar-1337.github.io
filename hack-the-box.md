@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## BOXES AND CHALLENGES
 
-_lol_
+**test**
 
-[back](./)
+[back to main page](./)
