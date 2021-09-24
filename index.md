@@ -11,7 +11,9 @@ layout: default
 
 
 
-<center> ![Octocat](https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg) </center>
+<center>
+    <img src="https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg">
+</center>
 
 
 
@@ -19,3 +21,4 @@ layout: default
 
 
 * [Writer-HackTheBox](./writer-htb.html).
+
