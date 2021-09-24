@@ -1,5 +1,6 @@
 title: Amar1337 
 description: Writeups and much more.
 show_downloads: false
+show_button: false
 google_analytics:
 theme: jekyll-theme-hacker
