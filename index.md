@@ -2,8 +2,7 @@
 layout: default
 ---
 
-_HackThebox_ and _TryHackMe_  **Writeups**
+<center><big> HackThebox and TryHackMe  Writeups contact me on discord for more info </big></center>
 
 
-<center> * [Writer-HackTheBox](./writer-htb.html). </center>
-
+* [Writer-HackTheBox](./writer-htb.html).
