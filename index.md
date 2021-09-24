@@ -11,7 +11,7 @@ layout: default
 
 
 
-![Octocat](https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg)
+<center> ![Octocat](https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg) </center>
 
 
 
