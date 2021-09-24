@@ -21,14 +21,7 @@ layout: default
     <p1>An advanced command-line tool designed to brute force directories and files in webservers, AKA web path scanner
     dirsearch is being actively developed by <a href="https://twitter.com/_maurosoria">@maurosoria</a> and <a href="https://twitter.com/shells3c_"> @shelld3v</a>
 
-
+<big>--------------------------------------------------------------------------------------------------------------------------------------------------------------------</big>
 
 *   [<big>HackTheBox</big>](./hack-the-box.html)
 *   [<big>TryHackMe</big>](./try-hack-me.html)
-
-
-
-|   [<big>HackTheBox</big>](./hack-the-box.html)         |  [<big>HackTheBox</big>](./hack-the-box.html)   | 
-|:-------------------------------------------------------|:------------------------------------------------|:
-| Machines                                               | Machines                                        |
-| Challenges                                             | Challenges                                      |
