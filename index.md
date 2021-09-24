@@ -11,7 +11,7 @@ layout: default
 
 
 
-![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Favatars.alphacoders.com%2Favatars%2Fview%2F90459&psig=AOvVaw1tKBWNXTlD7ST1GuoaKLmm&ust=1632538017686000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCICBpJ_MlvMCFQAAAAAdAAAAABAp)
+![Octocat](https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg)
 
 
 
@@ -19,4 +19,3 @@ layout: default
 
 
 * [Writer-HackTheBox](./writer-htb.html).
-
