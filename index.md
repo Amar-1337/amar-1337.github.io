@@ -13,10 +13,11 @@ layout: default
     <img src="https://i.etsystatic.com/23903102/r/il/efa2a2/2391953560/il_570xN.2391953560_gpfb.jpg">
 </center>
 
-- Useful Tools
+- <big>Useful Tools</big>
   - <big><a href="https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS/">Linpeas!</a></big>
-    <p1>LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts. The checks are explained on <big><a href="https://book.hacktricks.xyz/">Linpeas!</a></big> </p1>
-  - level 2 item
+    <p1>LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts. The checks are explained on <big><a href="https://book.hacktricks.xyz/">hacktricks</a></big></p1>
+  - <big><a href="https://github.com/DominicBreuker/pspy">PsPy!</a></big>
+    <p1>PsPy is a command line tool designed to snoop on processes without need for root permissions. It allows you to see commands run by other users, cron jobs, etc. as they execute. Great for enumeration of Linux systems in CTFs</p1>
   - level 2 item
 
 
