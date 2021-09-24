@@ -105,4 +105,4 @@ uname=demo&password=demo
 ```
 
 
-[Back to main page](./index.html)
+[Back to main page](./../..)
