@@ -87,7 +87,7 @@ wfuzz -w /usr/share/dirb/wordlists/big.txt -u http://writer.htb/FUZZ --hc 404 -t
 <big> Redirect us to admin login page, im gonna try something like admin:admin or admin:password. If doesn't work im gonna check for sql injection bypass </big> <br><big>So after 5-10 minutes i got in with **admin ' or '1'='1**
 <img src="https://rustlang.rs/images/htb-writer/005.png">
 
-<big> I check website and didnt find anything useful, checked burp and got something useful. </big> <br> <big> On website you can post **story** and we can upload picture where we can do reverse shell through **burp**.<br> <big>Post request looks like this.</br>
+<big> I check website and didnt find anything useful, checked burp and got something useful. </big> <br> <big> On website you can post **story** and we can upload picture where we can do reverse shell through **burp**.<br> <big>Post request looks like this. 
 
 ```js
 POST /administrative HTTP/1.1
