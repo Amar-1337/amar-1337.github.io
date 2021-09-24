@@ -28,7 +28,7 @@ layout: default
 
 
 
--   [<big>HackTheBox</big>](./hack-the-box.html)          ***[<big>HackTheBox</big>](./hack-the-box.html)***
+|   [<big>HackTheBox</big>](./hack-the-box.html)         |  [<big>HackTheBox</big>](./hack-the-box.html)   | 
 |:-------------------------------------------------------|:------------------------------------------------|:
 | Machines                                               | Machines                                        |
 | Challenges                                             | Challenges                                      |
