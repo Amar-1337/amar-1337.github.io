@@ -8,9 +8,8 @@ layout: default
 <center><big> Boxes that are forbidden to do writeups or similar, contact me on discord to remove. </big></center>
 <center><big> Amar#0484 </big></center>
 
-
 <center>
-    	<img src="./logo-512.png" height="384" style="border-radius:512px">
+    <img src="https://c4.wallpaperflare.com/wallpaper/557/172/58/minimalism-background-mask-anonymous-wallpaper-preview.jpg">
 </center>
 
 - <big>Useful Tools</big>
@@ -18,9 +17,18 @@ layout: default
     <p1>LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts. The checks are explained on <big><a href="https://book.hacktricks.xyz/">hacktricks</a></big></p1>
   - <big><a href="https://github.com/DominicBreuker/pspy">PsPy!</a></big>
     <p1>PsPy is a command line tool designed to snoop on processes without need for root permissions. It allows you to see commands run by other users, cron jobs, etc. as they execute. Great for enumeration of Linux systems in CTFs</p1>
-  - level 2 item
+  - <big><a href="https://github.com/maurosoria/dirsearch">DirSearch</a></big>
+    <p1>An advanced command-line tool designed to brute force directories and files in webservers, AKA web path scanner
+    dirsearch is being actively developed by <a href="https://twitter.com/_maurosoria">@maurosoria</a> and <a href="https://twitter.com/shells3c_"> @shelld3v</a>
 
 
 
 *   [<big>HackTheBox</big>](./hack-the-box.html)
 *   [<big>TryHackMe</big>](./try-hack-me.html)
+
+
+
+| *   [<big>HackTheBox</big>](./hack-the-box.html)       | *   [<big>HackTheBox</big>](./hack-the-box.html)|
+|:-------------------------------------------------------|:------------------------------------------------|:
+| Machines                                               | Machines                                        |
+| Challenges                                             | Challenges                                      |
