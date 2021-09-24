@@ -18,5 +18,5 @@ layout: default
 
 
 
-* [<center><big>HackTheBox</big></center>](./hack-the-box.md).
+* [<center><big>HackTheBox</big></center>](./hack-the-box.html).
 
