@@ -22,5 +22,5 @@ layout: default
     dirsearch is being actively developed by <a href="https://twitter.com/_maurosoria">@maurosoria</a> and <a href="https://twitter.com/shells3c_"> @shelld3v</a>
 
 
-##  *   [<big>HackTheBox</big>](./hack-the-box.html)
-##  *   [<big>TryHackMe</big>](./try-hack-me.html)
+*   [<big>HackTheBox(writeups)</big>](./hack-the-box.html)
+*   [<big>TryHackMe(wruteups)</big>](./try-hack-me.html)
