@@ -4,9 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
-
-[Link to another page](./writer-htb.html).
+*   [Writer-HackTheBox](./writer-htb.html).
 
 There should be whitespace between paragraphs.
 
@@ -100,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://i.pinimg.com/originals/3c/69/45/3c694513abec5c9c7cdd0bef7e6ec718.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
