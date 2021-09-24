@@ -69,6 +69,7 @@ Host script results:
 ```js
 10.10.11.101    writer.htb
 ```
+# <big>web</big> 
 
 <img src="https://rustlang.rs/images/htb-writer/001.png">
 
