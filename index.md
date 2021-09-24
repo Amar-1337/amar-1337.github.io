@@ -4,8 +4,9 @@ layout: default
 
 <center><big> You can't find flags here, just writeup for hints. </big></center>
 <center><big> HackTheBox,TryHackMe includings Challenges and KOTH boxes. </big></center>
-<center><big> For help contact me on discord Amar#0484 </big></center>
-
+<center><big> <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<center><big> Boxes that are forbidden to do writeups or similar, contact me on discord to remove <big><center>
+<center><big> 
 
 
 
@@ -18,4 +19,4 @@ layout: default
 
 
 
-* [<big>HackTheBox</big>](./hack-the-box.html).
+* [<big>HackTheBox</big>](./hack-the-box.html)
