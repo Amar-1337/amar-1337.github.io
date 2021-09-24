@@ -7,7 +7,7 @@ layout: default
 <center><big> For help contact me on discord Amar#0484 </big></center>
 
 
-
+<right> slika </right>
 
 
 
