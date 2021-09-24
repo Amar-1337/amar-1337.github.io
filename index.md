@@ -4,5 +4,6 @@ layout: default
 
 _HackThebox_ and _TryHackMe_  **Writeups**
 
-* [Writer-HackTheBox](./writer-htb.html).
+
+<center> * [Writer-HackTheBox](./writer-htb.html). </center>
 
