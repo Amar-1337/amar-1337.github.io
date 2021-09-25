@@ -20,11 +20,11 @@ layout: default
 *   https://tryhackme.com/room/mrrobot
 
 - Discription:
-    - <p2> This is my second time doing this BOX, it is very interesting and easy</p2>.
-    - <p2> I recommend it to everyone who has watched the <a href="https://www.imdb.com/title/tt4158110/">Mr Robot series</a></p2>.
+    - <p2> This is my second time doing this BOX, it is very interesting and easy</p2>
+    - <p2> I recommend it to everyone who has watched the <a href="https://www.imdb.com/title/tt4158110/">Mr Robot series</a></p2>
 
 
-    ## Summary
+## Summary
 - Enumerating **80** port with <a href="https://github.com/OJ/gobuster">GoBuster</a>.
 - Brute forcing **WP** with <a href="https://github.com/vanhauser-thc/thc-hydra">Hydra</a>.
 - Reverse shell through **404.php**.
