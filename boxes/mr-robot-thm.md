@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<title>Tryhackme - Mr. Robot Writeup</title>
+
 <center> 
     <big>Mr-Robot</big>
 </center>
