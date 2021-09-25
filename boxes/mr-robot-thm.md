@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Mr-Robot WRITEUP
 ---
 
 <center> 
