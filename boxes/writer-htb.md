@@ -91,7 +91,7 @@ wfuzz -w /usr/share/dirb/wordlists/big.txt -u http://writer.htb/FUZZ --hc 404 -t
 <img src="https://rustlang.rs/images/htb-writer/003.png">
 
 <br><big> * Redirect us to admin login page, im gonna try something like admin:admin or admin:password. If doesn't work im gonna check for sql injection bypass </big> <br><big>So after 5-10 minutes i got in with **admin ' or '1'='1**
-<img src="https://rustlang.rs/images/htb-writer/005.png">
+<br><img src="https://rustlang.rs/images/htb-writer/005.png">
 
 <br><big> * Checking with burp and discovered server is **Apache/2.4.41** so i tried some things with sqlmap and find out that i can read **/var/www/writer.htb/writer/** </big><br>
 
@@ -251,7 +251,7 @@ pbkdf2_sha256$260000$wJO3ztk0fOlcbssnS1wJPD$bbTyCB8dYWMGYlz4dSArozTY7wcZCS7DV6l5
 * https://viperone.gitbook.io/pentest-everything/all-writeups/pg-practice/linux/postfish
 * https://mobt3ath.com/uplode/books/book-27297.pdf
 
-<br><big> I tried reverse shell it doesn't work so i tried just privileges to acces in **/home/john** and we got acces, so i read **.ssh** and take **id_rsa** key</big>
+<br><big> * I tried reverse shell it doesn't work so i tried just privileges to acces in **/home/john** and we got acces, so i read **.ssh** and take **id_rsa** key</big>
 
 
 ```
