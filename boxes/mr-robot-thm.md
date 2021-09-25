@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Mr-Robot WRITEUP
+discription: Mr. Robot
+title: Tryhackme - Mr. Robot Writeup
 ---
 
 <center> 
@@ -15,14 +16,14 @@ title: Mr-Robot WRITEUP
 
 
 *   Information
-*   name: <p1> Mr-Robot </p1>
+*   name: <p1> Mr.Robot </p1>
 *   OS: <p1> Linux </p1>
 *   Difficulty: <p1 style="color:green;">Easy</p1>
 *   <a href=" https://tryhackme.com/room/mrrobot">Room</a>
 
 - Discription:
     - <p2> This is my second time doing this BOX, it is very interesting and easy</p2>
-    - <p2> I recommend it to everyone who has watched the <a href="https://www.imdb.com/title/tt4158110/">Mr Robot series</a></p2>
+    - <p2> I recommend it to everyone who has watched the <a href="https://www.imdb.com/title/tt4158110/">Mr.Robot series</a></p2>
 
 
 ## Summary
