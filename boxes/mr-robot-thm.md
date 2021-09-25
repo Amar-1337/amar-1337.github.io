@@ -1,7 +1,7 @@
 ---
 layout: default
 discription: Amar1337
-title: Tryhackme - Mr. Robot Writeup
+title: TryHackMe - Mr. Robot Writeup
 ---
 
 <center> 
