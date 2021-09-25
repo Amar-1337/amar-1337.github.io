@@ -91,6 +91,7 @@ wfuzz -w /usr/share/dirb/wordlists/big.txt -u http://writer.htb/FUZZ --hc 404 -t
 <img src="https://rustlang.rs/images/htb-writer/003.png">
 
 <br><big> * Redirect us to admin login page, im gonna try something like admin:admin or admin:password. If doesn't work im gonna check for sql injection bypass </big> <br><big>So after 5-10 minutes i got in with **admin ' or '1'='1**
+
 <br><img src="https://rustlang.rs/images/htb-writer/005.png">
 
 <br><big> * Checking with burp and discovered server is **Apache/2.4.41** so i tried some things with sqlmap and find out that i can read **/var/www/writer.htb/writer/** </big><br>
