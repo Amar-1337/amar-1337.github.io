@@ -1,5 +1,7 @@
 ---
 layout: default
+title: TryHackMe
+discription: Amar1337
 ---
 
 - ### Linux

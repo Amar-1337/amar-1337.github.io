@@ -1,5 +1,7 @@
 ---
 layout: default
+title: HackTheBox - Writer Writeup
+discription: Amar1337
 ---
 
 <center> 

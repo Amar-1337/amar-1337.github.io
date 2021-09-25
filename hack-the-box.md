@@ -1,5 +1,7 @@
 ---
 layout: default
+title: HackTheBox
+discription: Amar1337
 ---
 
 - ### Linux
