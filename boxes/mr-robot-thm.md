@@ -2,9 +2,16 @@
 layout: default
 ---
 
+
+<!DOCTYPE html>
+<html>
 <head>
-<title>Tryhackme - Mr. Robot Writeup</title>
+  <title>HTML Elements Reference</title>
 </head>
+<body>
+</body>
+</html>
+
 
 <center> 
     <big>Mr-Robot</big>
