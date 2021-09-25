@@ -1,6 +1,6 @@
 ---
 layout: default
-discription: Mr. Robot
+discription: Amar1337
 title: Tryhackme - Mr. Robot Writeup
 ---
 
