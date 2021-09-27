@@ -18,7 +18,7 @@ discription: Amar1337
 *   Information
 *   name: <p1> Writer </p1>
 *   OS: <p1> Linux </p1>
-*   Difficulty: <p1 style="color:red;">Medium</p1>
+*   Difficulty: <p1 style="color:orange;">Medium</p1>
 *   Points: <p1> 30 </p1>
 *   Release: <p1 > 2ND AUGUST, 2021 </p1>
 *   IP: 10.10.11.101
