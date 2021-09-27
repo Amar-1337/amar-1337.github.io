@@ -254,9 +254,9 @@ pbkdf2_sha256$260000$wJO3ztk0fOlcbssnS1wJPD$bbTyCB8dYWMGYlz4dSArozTY7wcZCS7DV6l5
 
 <br><big> * After some times i found that i can send malicious mail and got some privileges, explained in those links </big>
 
-* https://book.hacktricks.xyz/pentesting/pentesting-smtp
-* https://viperone.gitbook.io/pentest-everything/all-writeups/pg-practice/linux/postfish
-* https://mobt3ath.com/uplode/books/book-27297.pdf
+* <a href="https://book.hacktricks.xyz/pentesting/pentesting-smtp">https://book.hacktricks.xyz/pentesting/pentesting-smtp</a>
+* <a href="https://viperone.gitbook.io/pentest-everything/all-writeups/pg-practice/linux/postfish">https://viperone.gitbook.io/pentest-everything/all-writeups/pg-practice/linux/postfish</a>
+* <a href="https://mobt3ath.com/uplode/books/book-27297.pdf">https://mobt3ath.com/uplode/books/book-27297.pdf</a>
 
 <br><big> * I tried reverse shell it doesn't work so i tried just privileges to acces in **/home/john** and we got acces, so i read **.ssh** and take **id_rsa** key</big>
 
@@ -310,8 +310,8 @@ Nwy7uLkQ0cIY6XAAAAC2pvaG5Ad3JpdGVyAQIDBAUGBw==
 <br><big> * In those links everything is explained, is very easy just follow commands, execute reverse shell and wait **2-5 minutes** for **cronjob**
 
 
-* https://gtfobins.github.io/gtfobins/apt-get/
-* https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/
+* <a href="https://gtfobins.github.io/gtfobins/apt-get/">https://gtfobins.github.io/gtfobins/apt-get/</a>
+* <a href="https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/">https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/</a>
 
 
 ## [Back to main page](./../..)
