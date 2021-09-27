@@ -213,7 +213,7 @@ wfuzz -w /usr/share/dirb/wordlists/big.txt -u http://writer.htb/FUZZ --hc 404 -t
 
 <br><big> * And boom, we got a shell<big>
 
-<big>Getting **kyle** user </big>
+# <big>Getting **kyle** user </big>
 
 <br><img src="https://i.imgur.com/BKudYDy.png">
 
@@ -248,7 +248,7 @@ pbkdf2_sha256$260000$wJO3ztk0fOlcbssnS1wJPD$bbTyCB8dYWMGYlz4dSArozTY7wcZCS7DV6l5
 
 <br><big> * We have a password so lets **ssh** as **kyle** </big>
 
-<big>Getting **john** user</big>
+# <big>Getting **john** user</big>
 
 <br><img src="https://i.imgur.com/GZgeFEI.png">
 
@@ -303,7 +303,7 @@ Nwy7uLkQ0cIY6XAAAAC2pvaG5Ad3JpdGVyAQIDBAUGBw==
 ```
 <br><img src="https://i.imgur.com/ust1yAN.png">
 
-<big> Getting **root** </big>
+# <big> Getting **root** </big>
 
 <br><big> * I upload <a href="https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS/">Linpeas</a> and found **cronjob** * **apt-get**
 
