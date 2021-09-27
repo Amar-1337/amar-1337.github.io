@@ -313,5 +313,6 @@ Nwy7uLkQ0cIY6XAAAAC2pvaG5Ad3JpdGVyAQIDBAUGBw==
 * <a href="https://gtfobins.github.io/gtfobins/apt-get/">https://gtfobins.github.io/gtfobins/apt-get/</a>
 * <a href="https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/">https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/</a>
 
+<big>Amar#0484</big>
 
 ## [Back to main page](./../..)
