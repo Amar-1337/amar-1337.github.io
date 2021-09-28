@@ -57,16 +57,16 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 #  `Reconnaissance` 
 
 <big> Scan the machine, how many ports are open? </big>
-<br><p2> Answer: **2** </p2> 
+<br><p2> Answer: 2 </p2> 
 
 <big> What version of Apache is running? </big>
-<br><p2> Answer: **2.4.29** </p2>
+<br><p2> Answer: 2.4.29 </p2>
 
 <big> What service is running on port 22? </big>
-<br><p2>Answers: **22** </p2>
+<br><p2>Answers: 22 </p2>
 
 <big> Find directories on the web server using the GoBuster tool. </big>
-<br><p2>Answers: **"No answer needed"** </p2>
+<br><p2>Answers: "No answer needed" </p2>
 
 <big> What is the hidden directory? <big>
 
@@ -78,7 +78,7 @@ gobuster dir -u 10.10.239.138 -w /usr/share/wordlists/dir/common.txt
 <img src="https://i.imgur.com/8ztnhds.png">
 
 
-<br><p2> Answers: **/panel/** </p2>
+<br><p2> Answers: /panel/ </p2>
 
 
 # `Getting a shel`
