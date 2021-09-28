@@ -83,7 +83,7 @@ gobuster dir -u 10.10.239.138 -w /usr/share/wordlists/dir/common.txt
 
 # `Getting a shel`
  
-<p2> **Find a form to upload and get a reverse shell, and find the flag.** </p2>
+<big> **Find a form to upload and get a reverse shell, and find the flag.** </big>
 
 <br><big> Let's check **/panel** </big>
 
