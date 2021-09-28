@@ -23,7 +23,7 @@ title: TryHackMe - Root-Me Writeup
 
 - Discription:
     - <p2> Box is for beginners but everyone can try it :) </p2>
-    - <p2> Enjoy </a></p2>
+    - <p2> Enjoy </p2>
 
 
 ## Summary
@@ -136,7 +136,7 @@ find / -user root -perm /4000
 <br><p2> Answer: **/usr/bin/python** </p2> 
 
 <big> Find a form to escalate your privileges. </big>
-<br><p2> Answer: **<a href="https://gtfobins.github.io/">gtfobins</a>**
+<br><p2> Answer: <a href="https://gtfobins.github.io/">gtfobins</a>
 
 <br><big> I will use **setuid** command </big> 
 
