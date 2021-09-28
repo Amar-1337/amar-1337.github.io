@@ -91,29 +91,29 @@ gobuster dir -u 10.10.239.138 -w /usr/share/wordlists/dir/common.txt
 <img  src="https://miro.medium.com/max/2000/1*ULpCbuyeZs_847F86vjcdA.png">
 
 
-<br><big> I tried to upload **php** reverse shell but got **name restriction error** so lets try bypass it </big>
+<br><big> * I tried to upload **php** reverse shell but got **name restriction error** so lets try bypass it </big>
 
 
 <img src="https://i.imgur.com/eotHiZk.png">
 
-<br><big> In those link **name restriction bypass** is explained so take a look <big>
+<br><big> * In those link **name restriction bypass** is explained so take a look <big>
 
 
 * <a href="https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf">File upload restrictions bypass [EXPLOIT-DB]</a>
 
 
-<br><big> I tried rename **.php** into **php5** through **burp** and seems working </big> 
+<br><big> * I tried rename **.php** into **php5** through **burp** and seems working </big> 
 
 
 <img src="https://i.imgur.com/ihol2A4.png">
 
 <img src="https://i.imgur.com/pXGMH29.png">
 
-<br><big> Let's try to **execute** </big>
+<br><big> * Let's try to **execute** </big>
 
 <img src="https://i.imgur.com/JdtMyJr.png">
 
-<br><big> Let's upgrade **shell** </big>
+<br><big> * Let's upgrade **shell** </big>
 
 ```
 python3 -c 'import pty;pty.spawn("/bin/bash")'
@@ -122,9 +122,9 @@ export TERM=xterm
 
 # `Privilege escalation`
 
-<p2>**Now that we have a shell, let's escalate our privileges to root.**</p2>
+<big> **Now that we have a shell, let's escalate our privileges to root.** </big>
 
-<br><big> Let's use **find** command to find **files** with **SUID permission** <big>
+<br><big> * Let's use **find** command to find **files** with **SUID permission** <big>
 
 ```
 find / -user root -perm /4000
@@ -138,7 +138,7 @@ find / -user root -perm /4000
 <big> Find a form to escalate your privileges. </big>
 <br><p2> Answer: <a href="https://gtfobins.github.io/">gtfobins</a>
 
-<br><big> I will use **setuid** command </big> 
+<br><big> * I will use **setuid** command </big> 
 
 ```
  cd usr/bin
@@ -147,9 +147,9 @@ find / -user root -perm /4000
 
 <br><img src="https://i.imgur.com/wxnJ3LH.png">
 
-<big> And we have a **root** :) </big>
+<big> * And we have a **root** :) </big>
 
-<p2> Amar#0484 </p2>
+<big> Amar#0484 </big>
 
 
 
