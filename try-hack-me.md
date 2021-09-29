@@ -20,3 +20,7 @@ Writeup | Description |
 ## THM badge
 
 <script src="https://tryhackme.com/badge/629802"></script>
+
+<h3>Amar1337</h3>
+<a href="https://github.com/amar-1337"><i class="fab fa-github fa-2x"></i></a>
+<a href="mailto:fromdarkside1337@protonmail.com"><i class="fas fa-envelope fa-2x"></i></a>
