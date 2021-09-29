@@ -15,7 +15,7 @@ TryHackMe is an online platform for learning and teaching cyber security, start 
 Writeup | Description |
 --------|-------------|
 [MrRobot](/boxes/mr-robot-thm.md) | Easy and intresting **box**, enumeration and **reverse shell**.
-[RootMe](/boxes/rootme-thm.md) | Box for **beginners**, feel free to test your **skills** :).
+[RootMe](/boxes/rootme-thm.md) | Box for **beginners**, feel free to test your **skills** :)).
 
 
 ## THM badge
