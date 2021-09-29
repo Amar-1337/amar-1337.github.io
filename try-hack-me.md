@@ -18,6 +18,3 @@ Writeup | Description |
 [RootMe](/boxes/rootme-thm.md) | Box for **beginners**, feel free to test your **skills** :)).
 
 
-## THM badge
-
-<script src="https://tryhackme.com/badge/629802"></script>
