@@ -1,2 +1,2 @@
 
-[(https://img.shields.io/badge/1337-hello%20world-blue)]
+[![1337](https://img.shields.io/badge/1337-hello%20world-blue)]
