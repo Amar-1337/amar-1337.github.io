@@ -19,4 +19,4 @@ Writeup | Description |
 
 ## HTB badge
 
-<script src="https://www.hackthebox.eu/badge/image/264160"></script>
+![0x01337](https://www.hackthebox.eu/badge/image/264160)
