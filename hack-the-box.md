@@ -1,12 +1,22 @@
 ---
 layout: default
-title: HackTheBox
-discription: Amar1337
+description: "Amar1337"
+title: "HackTheBox"
 ---
 
-- ### Linux
-    - [<p1> Writer </p1>](./boxes/writer-htb.html)
+
+<center><img alt="logo" src="https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png" width="25%" /></center>
+
+HackTheBox is **portal** for testing and learning **cyber security**.
 
 
+## List of writeup
 
-[back to main page](./)
+Writeup | Description |
+--------|-------------|
+[Writer](/boxes/writer-htb.md) | Fun box, need **cross site scripting** knowledge. 
+
+
+## HTB badge
+
+<script src="https://www.hackthebox.eu/badge/image/264160"></script>
