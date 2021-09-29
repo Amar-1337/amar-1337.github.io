@@ -4,7 +4,7 @@ description: "Amar1337"
 title: "TryHackMe"
 ---
 
-<img alt="logo" src="/assets/images/THM/logo.png" width="25%" />
+<img alt="logo" src="https://raw.githubusercontent.com/DesKel/DesKel.github.io/master/assets/images/THM/logo.png" width="25%" />
 
 TryHackMe is an online platform for learning and teaching cyber security, start <a href="https://tryhackme.com">today</a>.
 
