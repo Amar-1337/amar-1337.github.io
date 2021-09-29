@@ -1,5 +1,5 @@
-# Feel free to use this template
+# CopyRight 2021
 # Amar1337
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+[![https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
