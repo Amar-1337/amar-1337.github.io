@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /thm/
+layout: default
 description: "Amar1337"
 title: "TryHackMe"
 ---
